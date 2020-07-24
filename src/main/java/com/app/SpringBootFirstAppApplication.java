@@ -8,7 +8,7 @@ public class SpringBootFirstAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootFirstAppApplication.class, args);
-		System.out.println("Starter class Called"); 
+		System.out.println("@@@@@@@Starter class Called@@@@@@@@@@"); 
 	}
 
 }
